@@ -4,7 +4,7 @@
 
 export const environment = { 
   production: false,
-  baseUrl: 'http://localhost/dev/blogger/',
+  baseUrl: 'http://sanjay.eu5.net/',
   baseNodeurl: 'http://localhost:3000/api',
   basephpApi: 'http://localhost/api_php'
 };
